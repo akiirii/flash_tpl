@@ -1,0 +1,14 @@
+{
+  "name": "flash_tpl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm mocha"
+  },
+  "author": "Justyna Konarska",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
